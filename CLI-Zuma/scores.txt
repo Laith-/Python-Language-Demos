@@ -1,0 +1,19 @@
+AAA,630,level6.txt
+Linus,1350,level2.txt
+Charlie,970,level2.txt
+Lucy,1490,level2.txt
+Bulbasaur,1420,level3.txt
+Pikachu,360,level3.txt
+Psyduck,1670,level3.txt
+Jayne,1760,level1.txt
+Mal,1490,level1.txt
+River,270,level1.txt
+AAA,2440,level2.txt
+Staryu,2190,level3.txt
+Mr. Darcy,2210,level4.txt
+Mr. Bingley,1890,level4.txt
+Miss Jane Bennet,2130,level4.txt
+Miss Elizabeth Bennet,2530,level4.txt
+Hiro Protagonist,1530,level5.txt
+Y.T.,2600,level5.txt
+Enoch Root,1620,level5.txt
